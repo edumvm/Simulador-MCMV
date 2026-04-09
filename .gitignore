@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.xlsb
+*.pdf
+*.txt.bak
+municipios_raw.json
+Script Python - Prov.txt
